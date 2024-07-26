@@ -46,7 +46,7 @@
         "cream",
         "chocolate chip chunks"
       ],
-      "image": "ice-creamxtra2.svg"
+      "image": "ice-cream-xtra2.svg"
     },
     {
       "name":"Fruity Delight",
@@ -57,7 +57,7 @@
         "blueberries",
         "mint icecream base"
       ],
-      "image": "ice-creamxtra1.svg"
+      "image": "ice-cream-xtra1.svg"
     }
   ]
 }
