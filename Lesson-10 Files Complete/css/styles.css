@@ -23,9 +23,18 @@ header p {
 /* section styles */
 section {
 	display: flex;
-	justify-content: space-between;
+	justify-content: center;
 	margin-bottom: 5rem;
 }
+
+
+
+article{
+	margin: 25px;
+	width: 2rem;
+}
+
+
 section article {
 	border: 1px solid black;
 	box-shadow: 0 2px 14px grey;
